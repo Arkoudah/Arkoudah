@@ -20,5 +20,4 @@
 ![Sass](https://img.shields.io/badge/-Sass-000?style=for-the-badge&logo=Sass&labelColor=fbfbfb&logoColor=000)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-000?style=for-the-badge&logo=Node.js&labelColor=fbfbfb&logoColor=000)
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=Git&labelColor=fbfbfb&logoColor=000)
-![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&labelColor=fbfbfb&logoColor=000)
 ![Neovim](https://img.shields.io/badge/-Neovim-000?style=for-the-badge&logo=Neovim&labelColor=fbfbfb&logoColor=000)
